@@ -11,3 +11,5 @@
 6. Video file shows how web API works based on Transformer model.
 
 
+https://github.com/ghassemi1/Medicine-Recommendation-System/video/assets/109998808/bd236d96-2e43-4f73-ac0e-27f8fb7b74a5
+
